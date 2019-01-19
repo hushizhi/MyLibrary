@@ -4,6 +4,9 @@ platform :ios, '8.0'
 
 target 'MyLibrary_Example' do
   pod 'MyLibrary', :path => '../'
+  pod 'Masonry', '0.6.4'
+  pod 'Mantle'
+
 
   target 'MyLibrary_Tests' do
     inherit! :search_paths

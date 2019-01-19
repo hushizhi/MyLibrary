@@ -22,7 +22,7 @@ pod 'MyLibrary'
 
 ## Author
 
-hushizhi, qizhuowei@meituan.com
+hushizhi, 993085678@qq.com
 
 ## License
 
